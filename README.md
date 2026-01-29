@@ -79,7 +79,7 @@ A comprehensive quantitative financial analysis project implementing time series
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/portfolio-optimization.git
+   git clone https://github.com/Mohammed-App-creater/portfolio-optimization.git
    cd portfolio-optimization
    ```
 
